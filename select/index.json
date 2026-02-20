@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "Love Sick",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-02-20T05:01:26.101202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "처음이었죠 (Love Sick)",
+      "artist": "소녀시대-태티서",
+      "has_synced": false,
+      "path": "select/01_처음이었죠_(Love_Sick)_소녀시대-태티서.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "처음이었죠 (Love Sick)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": false,
+      "path": "select/02_처음이었죠_(Love_Sick)_Girls'_Generation-TTS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Sick Stomach Ache (Sugar Coated Accident)",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/03_Love_Sick_Stomach_Ache_(Sugar_Coated_Accident)_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stop This Song (Love Sick Melody)",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/04_Stop_This_Song_(Love_Sick_Melody)_Paramore.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stop this Song (Love Sick Melo",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/05_Stop_this_Song_(Love_Sick_Melo_Paramore.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Sleigh Bells",
+      "has_synced": true,
+      "path": "select/06_Love_Sick_Sleigh_Bells.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/07_Love_Sick_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/08_Love_Sick_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Beach Bunny",
+      "has_synced": true,
+      "path": "select/09_Love_Sick_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stop This Song (Love Sick Melody)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/10_Stop_This_Song_(Love_Sick_Melody)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Sick (feat. AR Paisley)",
+      "artist": "Sidhu Moose Wala feat. AR Paisley",
+      "has_synced": true,
+      "path": "select/11_Love_Sick_(feat._AR_Paisley)_Sidhu_Moose_Wala_feat._AR_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Sick (feat. AR Paisley)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/12_Love_Sick_(feat._AR_Paisley)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "FTISLAND",
+      "has_synced": false,
+      "path": "select/13_Love_Sick_FTISLAND.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/14_Love_Sick_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Girls’ Generation-TTS",
+      "has_synced": true,
+      "path": "select/15_Love_Sick_Girls’_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stop This Song (Love Sick Melody)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/16_Stop_This_Song_(Love_Sick_Melody)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Mari Iijima",
+      "has_synced": false,
+      "path": "select/17_Love_Sick_Mari_Iijima.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "飯島真理",
+      "has_synced": false,
+      "path": "select/18_Love_Sick_飯島真理.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "The Fall of Troy",
+      "has_synced": true,
+      "path": "select/19_Love_Sick_The_Fall_of_Troy.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/20_A_Little_Love_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "Fiona Fung",
+      "has_synced": true,
+      "path": "select/21_A_Little_Love_Fiona_Fung.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Fall In Love",
+      "artist": "Bailey Zimmerman",
+      "has_synced": true,
+      "path": "select/22_Fall_In_Love_Bailey_Zimmerman.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/23_Hard_To_Love_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Higher Love",
+      "artist": "Kygo feat. Whitney Houston",
+      "has_synced": true,
+      "path": "select/24_Higher_Love_Kygo_feat._Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/25_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Want To Know What Love Is - Remastered",
+      "artist": "Foreigner",
+      "has_synced": false,
+      "path": "select/26_I_Want_To_Know_What_Love_Is_-_Remastered_Foreigner.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "If I Didn't Love You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/27_If_I_Didn't_Love_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/28_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/29_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Love Is",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/30_Love_Is_Alannah_Myles.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Love Me Like",
+      "artist": "Ludic",
+      "has_synced": true,
+      "path": "select/31_Love_Me_Like_Ludic.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Love Me Like",
+      "artist": "LÜdic",
+      "has_synced": true,
+      "path": "select/32_Love_Me_Like_LÜdic.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Love Talking",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/33_Love_Talking_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/34_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Love You Like I Used To",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/35_Love_You_Like_I_Used_To_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Love, Cold Beer, Cheap Smoke",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/36_Love,_Cold_Beer,_Cheap_Smoke_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Modern Love",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/37_Modern_Love_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Sick",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Sick_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
